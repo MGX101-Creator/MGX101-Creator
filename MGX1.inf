@@ -1,0 +1,3 @@
+#1inch.io;
+#includePython;
+Print( " Hello World 01 " );
